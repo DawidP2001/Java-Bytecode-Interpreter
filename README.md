@@ -15,10 +15,14 @@ Key features include:
 
 ## Technologies
 * Java
+* Swing
 
 ## How to Run
 1. Download the repo
 2. Click ByteLibrary.jar
+
+## View Code
+You can view majority of the code in the Source_Code/NewJFrame.java
 
 ## Authors
 Dawid Pionk
